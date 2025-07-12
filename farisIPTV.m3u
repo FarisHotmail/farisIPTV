@@ -263,8 +263,6 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 group-title="SPOR" ,Tabii Spor 7
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-id="TenSportsPakistan.pk" ,Ten Sports
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" ,TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.imgur.com/tAXmMuG.png" ,TRT Spor Yıldız
@@ -317,8 +315,6 @@ https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
 #EXTINF:-1 group-title="MÜZİK" tvg-logo="https://yt3.googleusercontent.com/h3uIBQSMgHa2yEuQEjz5-yKDQsRNAaB9nmDlyxuBEHUSI3gZ95kFLsXXMHyKIUvImJFPadrguw=s900-c-k-c0x00ffffff-no-rj" ,Dance TV 9 Melodic Tech
 https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
-#EXTINF:-1 group-title="MÜZİK" tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png" ,DELUXE MUSIC Lounge
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
 #EXTINF:-1 group-title="MÜZİK" tvg-logo="https://i.ibb.co/pKt53kX/dl1.png" ,DELUXE MUSIC Lounge Extra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
 #EXTINF:-1 group-title="MÜZİK" tvg-logo="https://i.ibb.co/1KhQxpd/dlxwnt.png" ,DELUXE MUSIC Winter Time
