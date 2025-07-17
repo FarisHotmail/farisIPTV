@@ -5,8 +5,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 group-title="EĞLENCE" tvg-logo="https://yt3.googleusercontent.com/a8OBUC6I0ykGn1ntFY_Hp_BYb6OgGLzU8CCsNutyBG_k1X4cGlEeFsJ-pds6QUdIRv6CLHt9=s900-c-k-c0x00ffffff-no-rj" ,ALTAŞ TV
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="EĞLENCE" tvg-id="ArubaTV.aw" tvg-logo="https://aruba.tv/wp-content/uploads/2020/07/Aruba_TV_Symbol.png" ,Aruba TV
-https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="ASTV.tr" tvg-logo="https://yt3.googleusercontent.com/QQSqtcT005BkGaU4FYmtH9m_Ypm-3LzEbQu8lJfh4Q1ks0F1puhfo1s-fRjDLcSQjitoPfk7AQ=s900-c-k-c0x00ffffff-no-rj" ,AS TV BURSA
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="ATV.tr" tvg-logo="https://i.imgur.com/HyVUwFC.png" ,ATV
@@ -17,14 +15,10 @@ https://live.euromediacenter.com/balkanturktv/index.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="BirTV.tr" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png.webp" ,BİR TV
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="EĞLENCE" tvg-id="ChileChannel.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg" ,Chile Channel
-https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="Choppertown.us" tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2Fb2223358-4c8f-4192-a7e0-4c80b666f7bd.256x256.jpg&w=256&q=75" ,Choppertown
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="Cine1TV.tr" tvg-logo="https://cine1.com.tr/img/cine1loogo.png" ,Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 group-title="EĞLENCE" tvg-id="Cine5.tr" tvg-logo="https://cdn.yenicaggazetesi.com.tr/news/769151.jpg" ,Cine 5
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="DMAX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/500px-DMAX_-_Logo_2016.svg.png" ,DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="EurostarTV.tr" ,Eurostar
