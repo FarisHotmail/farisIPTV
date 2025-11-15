@@ -29,7 +29,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="MeltemTV.tr" tvg-logo="https://i.imgur.com/C3m6w5S.png" ,Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:0 group-title="EĞLENCE" tvg-id="MiltonTV.tr", Milyon TV
+#EXTINF:0 group-title="EĞLENCE" tvg-id="MiltonTV.tr" ,Milyon TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="MTurkTV.tr" tvg-logo="https://i.imgur.com/xj1gvrq.png" ,MTürk TV
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
@@ -65,7 +65,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="TV85.tr" tvg-logo="https://files.sikayetvar.com/lg/cmp/23/239124.png?1648044928" ,TV 8.5
 http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
-#EXTINF:-1 group-title="EĞLENCE" tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" tvg-id="TV8International.tr", TV8 INT
+#EXTINF:-1 group-title="EĞLENCE" tvg-id="TV8International.tr" tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" ,TV8 INT
 http://162.212.179.33/dvrfl05/gin-tv8int/index.m3u8
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="Ciftci.tr" tvg-logo="https://i.imgur.com/CLzP4vL.png" ,Çiftçi TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
@@ -79,16 +79,24 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="SİNEMA" ,İsviçre Tv
 https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 group-title="SİNEMA" ,Gülşah Film - Kemal Sunal
+https://youtu.be/VkB9S_nInbA
 #EXTINF:-1 group-title="ÇOCUK" tvg-id="Disney.Tr" tvg-logo="https://www.imaj.com.tr" ,Disney Jr.
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 group-title="ÇOCUK" tvg-id="MinikaGo.Tr" ,Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 #EXTINF:-1 group-title="ÇOCUK" tvg-id="MinikaCocuk.Tr" ,Minika Çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
-#EXTINF:0 group-title="ÇOCUK" tvg-i="EBATVIlkokul.tr", TRT EBA İlkokul
+#EXTINF:0 group-title="ÇOCUK" ,TRT EBA İlkokul
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="ÇOCUK" tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" ,TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ÇOCUK" tvg-name="CartoonNetwork.tr" ,Cartoon Network
+https://youtu.be/tf_nh2e80eU
+#EXTINF:-1 group-title="ÇOCUK" ,Cartoonito Türkiye
+https://youtu.be/0BISPwH_qFM
+#EXTINF:-1 group-title="HABER" tvg-name="SozcuTV.tr" ,Sözcü TV
+https://youtu.be/ztmY_cCtUl0
 #EXTINF:-1 group-title="HABER" tvg-id="24TV.tr" tvg-logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" ,24 TV
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="BenguTurkTV.tr" tvg-logo="https://ajansgiller.com/wp-content/uploads/2024/11/bengu-turk.jpg" ,Bengü Türk
@@ -147,7 +155,7 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TarimTV.tr" tvg-logo="https://www.tarimtv.gov.tr/uploads/logo/logo-tarim-31FnQ2ZNL1.png" ,Tarım TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
-#EXTINF:0 group-title="BELGESEL" tvg-id="TGRTBelgesel.tr", TGRT Belgesel
+#EXTINF:0 group-title="BELGESEL" tvg-id="TGRTBelgesel.tr" ,TGRT Belgesel
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png" ,TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
