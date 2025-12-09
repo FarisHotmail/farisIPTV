@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="360.tr" tvg-logo="https://i.imgur.com/agn47sQ.png" ,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-#EXTINF:-1 group-title="EĞLENCE" tvg-id="A2TV.tr" tvg-logo="https://logo.com.tr" ,A2TV
-https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1763249290&st=vvQuPec8FdyFQJbABBaf3g&sid=7x08rxin6igy&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="ASTV.tr" tvg-logo="https://i.dsmart.com.tr/kanallar/as-tv-logo.png" ,AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 #EXTINF:-1 group-title="EĞLENCE" tvg-id="ATV.tr" tvg-logo="https://i.imgur.com/HyVUwFC.png" ,ATV
@@ -335,3 +333,4 @@ https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg0
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MÜZİK" tvg-id="VevoPop.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/1000x1000_Vevo-pop.png?$296_164_PNG$" ,Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
+
